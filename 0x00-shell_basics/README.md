@@ -1,4 +1,1 @@
-#!/bin/bash
-echo this is my second
-pwd
-
+Display the contents list of your current directory
