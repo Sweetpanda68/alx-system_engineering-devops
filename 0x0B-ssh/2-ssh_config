@@ -1,0 +1,8 @@
+# configure SSH server
+Host school
+    Hostname 52.90.15.102
+    User ubuntu
+    IdentityFile ~/.ssh/school
+
+    PasswordAuthentication no
+
